@@ -13,3 +13,5 @@ fields:
   name: test1
   description: testtest test test
   default: "<blockquote><h1>test</h1></blockquote>"
+pages:
+- test-page01.md
